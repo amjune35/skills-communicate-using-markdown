@@ -1,3 +1,4 @@
 # H1 Header
 
-Added an H1 header to the index file.
+![Image of garlic](https://www.veggycation.com.au/siteassets/veggycationvegetable/garlic.jpg)
+
