@@ -6,3 +6,8 @@
 x <- "Hello world"
 ```
 
+ - [x] Intro to github 
+ - [ ] Communicate using markdown
+ - [ ] Review pull requests
+ - [ ] Introduction to repo management
+ 
